@@ -143,3 +143,4 @@ while True:
 
         # Remove from our list of users
         del clients[notified_socket]
+        
