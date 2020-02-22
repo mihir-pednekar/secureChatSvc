@@ -102,7 +102,3 @@ class cryptoUtil:
         data = cipher_aes.decrypt_and_verify(ciphertext, tag)
         print(data.decode("utf-8"))
         return data
-
-    
-    
-    
