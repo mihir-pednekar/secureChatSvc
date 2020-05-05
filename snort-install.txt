@@ -1,4 +1,4 @@
-sudo apt-get install nettools
+sudo apt-get install net-tools
 
 mkdir ~/snort_src2 && cd ~/snort_src2
 
